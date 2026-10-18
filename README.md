@@ -2,6 +2,10 @@
 
 [English version](https://github.com/palmdm/Tropa/blob/main/README_EN.md)
 
+<img width="1272" height="2616" alt="IMG_20261018_162312" src="https://github.com/user-attachments/assets/4fbf5d7f-6a59-4e21-82aa-44805a36d14c" />
+<img width="1272" height="2616" alt="IMG_20261018_162319" src="https://github.com/user-attachments/assets/dd1e36c1-6271-4408-8931-2bef7661282d" />
+<img width="1272" height="2646" alt="IMG_20261018_162330" src="https://github.com/user-attachments/assets/1db51513-9abc-43a3-8178-cc7a5dc493b9" />
+
 ## Описание
 
 Плагин для доступа к Telegram из мест, где Telegram может работать некорректно. Предназначен для клиентов, поддерживающих плагины (Aprel Gram, exteraGram, AyuGram). Заимствует некоторые идеи плагина exitFy (устаревшей версии) с улучшениями, исправлениями и новыми функциями. Протестирован и рекомендован для использования с Aprel Gram.
